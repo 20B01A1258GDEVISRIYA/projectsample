@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  /* font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; */
+  background-image:url('https://cdn.pixabay.com/photo/2017/04/03/15/51/waves-2198764_960_720.png');
+  backdrop-filter:alpha(opacity=50);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a:hover
+{
+  font-size: 25px;
+}
+.nav-item{
+  font-weight:1000;
+  color:black;
+  font-family:cursive;
+}
